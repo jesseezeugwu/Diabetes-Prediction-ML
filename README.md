@@ -1,4 +1,4 @@
-# diabetes-prediction-ml
+# Diabetes-Prediction-ML
 A machine learning project for predicting diabetes using Python and scikit-learn.
 Diabetes Prediction using Machine Learning
 Project Overview
