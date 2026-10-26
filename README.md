@@ -54,7 +54,7 @@ pip install -r requirements.txt
 
 3.Open the Jupyter Notebook:
 
-jupyter notebook diabetes_prediction.ipynb
+jupyter notebook diabetes_prediction_project.ipynb
 
 Author
 
